@@ -8,7 +8,7 @@ RGS = {
     RG-location = "West US2"
   }
 }
-}
+
 
 VNET = {
   VNET1 = {
