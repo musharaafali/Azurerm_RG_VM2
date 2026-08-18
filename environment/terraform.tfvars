@@ -3,7 +3,7 @@ RGS = {
     RG-name     = "Mohan"
     RG-location = "West US2"
   }
-   RGS2 = {
+  RGS2 = {
     RG-name     = "Mohan3"
     RG-location = "West US2"
   }
